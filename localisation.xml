@@ -1,0 +1,1248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc [ 
+<!ENTITY trade "&#8482;"> 
+<!ENTITY copy "&#169;"> 
+<!ENTITY reg "&#174;"> 
+<!ENTITY euro "&#8364;"> 
+<!ENTITY pound "&#163;"> 
+]>
+<localisation>
+	<Languages>
+		<list value="CS|DA|DE|EN|ESMX|FI|FR|HU|IT|JA|KO|NB|NL|PL|RU|SV|ZH"/>
+	</Languages>
+	<chen>
+		<CS value="Master Chen"/>
+		<DA value="Master Chen"/>
+		<DE value="Master Chen"/>
+		<EN value="Usta Chen"/>
+		<ESMX value="Master Chen"/>
+		<FI value="Master Chen"/>
+		<FR value="Master Chen"/>
+		<HU value="Master Chen"/>
+		<IT value="Master Chen"/>
+		<JA value="Master Chen"/>
+		<KO value="마스터 첸"/>
+		<NB value="Master Chen"/>
+		<NL value="Master Chen"/>
+		<PL value="Master Chen"/>
+		<RU value="Master Chen"/>
+		<SV value="Master Chen"/>
+		<ZH value="Master Chen"/>
+	</chen>
+	<cole>
+		<CS value="Cole"/>
+		<DA value="Cole"/>
+		<DE value="Cole"/>
+		<EN value="Cole"/>
+		<ESMX value="Cole"/>
+		<FI value="Cole"/>
+		<FR value="Cole"/>
+		<HU value="Cole"/>
+		<IT value="Cole"/>
+		<JA value="コール"/>
+		<KO value="콜"/>
+		<NB value="Cole"/>
+		<NL value="Cole"/>
+		<PL value="Cole"/>
+		<RU value="Cole"/>
+		<SV value="Cole"/>
+		<ZH value="寇"/>
+	</cole>
+	<coming_soon>
+		<CS value="Již[LB]brzy!"/>
+		<DA value="Kommer[LB]snart!"/>
+		<DE value="Bald!"/>
+		<EN value="Yakında[LB]Geliyor!"/>
+		<ESMX value="¡Próximamente!"/>
+		<FI value="Tulossa[LB]pian!"/>
+		<FR value="Bientôt[LB]disponible!"/>
+		<HU value="Hamarosan!"/>
+		<IT value="¡Prossimamente!"/>
+		<JA value="もうすぐ[LB]オープン！"/>
+		<KO value="곧출시예정!"/>
+		<NB value="Kommer[LB]snart!"/>
+		<NL value="Binnenkort!"/>
+		<PL value="Już[LB]wkrótce!"/>
+		<RU value="Скоро!"/>
+		<SV value="Kommer[LB]snart!"/>
+		<ZH value="即将[LB]推出！"/>
+	</coming_soon>
+	<congratulations>
+		<CS value="Blahopřejeme"/>
+		<DA value="Tillykke!"/>
+		<DE value="Glückwunsch!"/>
+		<EN value="Tebrikler!"/>
+		<ESMX value="¡Enhorabuena!"/>
+		<FI value="Onneksi olkoon!"/>
+		<FR value="Félicitations!"/>
+		<HU value="Gratulálunk!"/>
+		<IT value="Congratulazioni!"/>
+		<JA value="おめでとうございます！"/>
+		<KO value="축하합니다!"/>
+		<NB value="Gratulerer!"/>
+		<NL value="Gefeliciteerd!"/>
+		<PL value="Gratulacje!"/>
+		<RU value="Поздравляем!"/>
+		<SV value="Grattis!"/>
+		<ZH value="恭喜！"/>
+	</congratulations>
+	<customise>
+		<CS value="Váš nindža"/>
+		<DA value="Din ninja"/>
+		<DE value="Dein Ninja"/>
+		<EN value="Senin Ninjan"/>
+		<ESMX value="Tu ninja"/>
+		<FI value="Oma ninjasi"/>
+		<FR value="Votre ninja"/>
+		<HU value="A nindzsád"/>
+		<IT value="Il tuo ninja"/>
+		<JA value="あなたの忍者"/>
+		<KO value="내 닌자"/>
+		<NB value="Ninjaen din"/>
+		<NL value="Jouw ninja"/>
+		<PL value="Twój ninja"/>
+		<RU value="Твой ниндзя"/>
+		<SV value="Din ninja"/>
+		<ZH value="你的忍者"/>
+	</customise>
+	<customise_ninja>
+		<CS value="Upravte si svého nindžu"/>
+		<DA value="Tilpas din Ninja"/>
+		<DE value="Passe deinen Ninja an"/>
+		<EN value="Ninjanı özelleştir"/>
+		<ESMX value="Personaliza a tu ninja"/>
+		<FI value="Muokkaa ninjaasi"/>
+		<FR value="Personnalisez votre ninja"/>
+		<HU value="Tedd egyedivé nindzsádat"/>
+		<IT value="Personalizza il tuo ninja"/>
+		<JA value="忍者をカスタマイズ"/>
+		<KO value="닌자 커스터마이징"/>
+		<NB value="Tilpass ninjaen din"/>
+		<NL value="Pas je ninja aan"/>
+		<PL value="Dostosuj swojego ninja"/>
+		<RU value="Измени своего ниндзя"/>
+		<SV value="Anpassa din ninja"/>
+		<ZH value="定制你的忍者"/>
+	</customise_ninja>
+	<didnt_escape>
+		<CS value="Tentokrát jste neunikli!"/>
+		<DA value="Du nåede ikke at flygte denne gang!"/>
+		<DE value="Diesmal konntest du nicht entkommen!"/>
+		<EN value="Bu sefer kaçamadın!"/>
+		<ESMX value="¡Esta vez no has escapado!"/>
+		<FI value="Et päässyt tällä kertaa pakoon!"/>
+		<FR value="Évasion échouée !"/>
+		<HU value="Ezúttal nem szöktél meg!"/>
+		<IT value="Questa volta non sei riuscito a scappare!"/>
+		<JA value="脱出失敗！"/>
+		<KO value="이번에는 탈출에 실패했어요!"/>
+		<NB value="Du slapp ikke unna denne gangen!"/>
+		<NL value="Dit keer ben je niet ontsnapt!"/>
+		<PL value="Tym razem nie udało ci się uciec!"/>
+		<RU value="На этот раз тебе не удалось уйти!"/>
+		<SV value="Du lyckades inte fly den här gången!"/>
+		<ZH value="你这次没有逃跑！"/>
+	</didnt_escape>
+	<escape_by_sunrise>
+		<CS value="Využijte Airjitzu k úniku pomocí východu slunce!"/>
+		<DA value="Brug Airjitzu til at flygte ved solopgang!"/>
+		<DE value="Flüchte mit Airjitzu bei Sonnenaufgang!"/>
+		<EN value="Güneş doğumundan önce kaçmak için Havajutsunu kullan!"/>
+		<ESMX value="¡Usa el Airjitzu para escapar antes del amanecer!"/>
+		<FI value="Pakene auringonnousuun mennessä käyttämällä Airjitzua!"/>
+		<FR value="Utilisez l'Airjitzu pour disparaître avant le lever du jour !"/>
+		<HU value="Használd az Airjitzu-t, hogy napkeltére megszökj!"/>
+		<IT value="Usa Airjitzu per scappare prima dell'alba!"/>
+		<JA value="日の出から逃れるためにエア術を使おう！"/>
+		<KO value="에어짓주를 사용해 해가 뜨기 전까지 탈출하세요!"/>
+		<NB value="Bruk Airjitzu til å flykte før solnedgang!"/>
+		<NL value="Gebruik Airjitzu om voor zonsopkomst te ontsnappen!"/>
+		<PL value="Skorzystaj z Airjitzu, aby uciec do wschodu słońca!"/>
+		<RU value="Используй джитсу воздуха, чтобы выжить до рассвета!"/>
+		<SV value="Använd Airjitzu för att fly innan soluppgången!"/>
+		<ZH value="使用Airjitzu在日出前逃跑！"/>
+	</escape_by_sunrise>
+	<finish_position_1>
+		<CS value="1."/>
+		<DA value="1."/>
+		<DE value="1."/>
+		<EN value="1."/>
+		<ESMX value="1.º"/>
+		<FI value="1."/>
+		<FR value="1er"/>
+		<HU value="1."/>
+		<IT value="1°"/>
+		<JA value="1位"/>
+		<KO value="1위"/>
+		<NB value="1."/>
+		<NL value="1ste"/>
+		<PL value="1."/>
+		<RU value="1-ый"/>
+		<SV value="1:A"/>
+		<ZH value="第1"/>
+	</finish_position_1>
+	<finish_position_2>
+		<CS value="2."/>
+		<DA value="2."/>
+		<DE value="2."/>
+		<EN value="2."/>
+		<ESMX value="2.º"/>
+		<FI value="2."/>
+		<FR value="2e"/>
+		<HU value="2."/>
+		<IT value="2°"/>
+		<JA value="2位"/>
+		<KO value="2위"/>
+		<NB value="2."/>
+		<NL value="2e"/>
+		<PL value="2."/>
+		<RU value="2-ой"/>
+		<SV value="2:A"/>
+		<ZH value="第2"/>
+	</finish_position_2>
+	<finish_position_3>
+		<CS value="3."/>
+		<DA value="3."/>
+		<DE value="3."/>
+		<EN value="3."/>
+		<ESMX value="3.º"/>
+		<FI value="3."/>
+		<FR value="3e"/>
+		<HU value="3."/>
+		<IT value="3°"/>
+		<JA value="3位"/>
+		<KO value="3위"/>
+		<NB value="3."/>
+		<NL value="3e"/>
+		<PL value="3."/>
+		<RU value="3-ий"/>
+		<SV value="3:A"/>
+		<ZH value="第3"/>
+	</finish_position_3>
+	<finish_position_4>
+		<CS value="4."/>
+		<DA value="4."/>
+		<DE value="4."/>
+		<EN value="4."/>
+		<ESMX value="4.º"/>
+		<FI value="4."/>
+		<FR value="4e"/>
+		<HU value="4."/>
+		<IT value="4°"/>
+		<JA value="4位"/>
+		<KO value="4위"/>
+		<NB value="4."/>
+		<NL value="4e"/>
+		<PL value="4."/>
+		<RU value="4-ый"/>
+		<SV value="4:A"/>
+		<ZH value="第4"/>
+	</finish_position_4>
+	<finish_position_5>
+		<CS value="5."/>
+		<DA value="5."/>
+		<DE value="5."/>
+		<EN value="5."/>
+		<ESMX value="5.º"/>
+		<FI value="5."/>
+		<FR value="5e"/>
+		<HU value="5."/>
+		<IT value="5°"/>
+		<JA value="5位"/>
+		<KO value="5위"/>
+		<NB value="5."/>
+		<NL value="5e"/>
+		<PL value="5."/>
+		<RU value="5-ый"/>
+		<SV value="5:A"/>
+		<ZH value="第5"/>
+	</finish_position_5>
+	<finish_position_6>
+		<CS value="6."/>
+		<DA value="6."/>
+		<DE value="6."/>
+		<EN value="6."/>
+		<ESMX value="6.º"/>
+		<FI value="6."/>
+		<FR value="6e"/>
+		<HU value="6."/>
+		<IT value="6°"/>
+		<JA value="6位"/>
+		<KO value="6위"/>
+		<NB value="6."/>
+		<NL value="6"/>
+		<PL value="6."/>
+		<RU value="6-ой"/>
+		<SV value="6:A"/>
+		<ZH value="第6"/>
+	</finish_position_6>
+	<finish_position_7>
+		<CS value="7."/>
+		<DA value="7."/>
+		<DE value="7."/>
+		<EN value="7."/>
+		<ESMX value="7.º"/>
+		<FI value="7."/>
+		<FR value="7"/>
+		<HU value="7."/>
+		<IT value="7°"/>
+		<JA value="7位"/>
+		<KO value="7위"/>
+		<NB value="7."/>
+		<NL value="7th"/>
+		<PL value="7."/>
+		<RU value="7"/>
+		<SV value="7:A"/>
+		<ZH value="第7"/>
+	</finish_position_7>
+	<finish_position_8>
+		<CS value="8."/>
+		<DA value="8."/>
+		<DE value="8."/>
+		<EN value="8."/>
+		<ESMX value="8.º"/>
+		<FI value="8."/>
+		<FR value="8"/>
+		<HU value="8."/>
+		<IT value="8°"/>
+		<JA value="8位"/>
+		<KO value="8위"/>
+		<NB value="8."/>
+		<NL value="8ste"/>
+		<PL value="8."/>
+		<RU value="8"/>
+		<SV value="8:A"/>
+		<ZH value="第8"/>
+	</finish_position_8>
+	<finish_position_9>
+		<CS value="9."/>
+		<DA value="9."/>
+		<DE value="9."/>
+		<EN value="9."/>
+		<ESMX value="9.º"/>
+		<FI value="9."/>
+		<FR value="9"/>
+		<HU value="9."/>
+		<IT value="9°"/>
+		<JA value="9位"/>
+		<KO value="9위"/>
+		<NB value="9."/>
+		<NL value="9de"/>
+		<PL value="9."/>
+		<RU value="9"/>
+		<SV value="9:A"/>
+		<ZH value="第9"/>
+	</finish_position_9>
+	<iron_sharpens>
+		<CS value="Jak železo tvaruje železo, tak i Sensei zostřuje studenty"/>
+		<DA value="Som jern skærper jern, skærper sensei studenter"/>
+		<DE value="Eisen schärft Eisen. Und Sensei schärft Schüler"/>
+		<EN value="Demirin demiri bilediği gibi, ustada öğrencisine öğretti"/>
+		<ESMX value="Como el hierro afila el hierro, el senséi afila al aprendiz"/>
+		<FI value="Kuten rauta rautaa teroittaa rautaa, sensei teroittaa oppilasta"/>
+		<FR value="Comme le fer aiguise le fer, Sensei aiguise l'élève"/>
+		<HU value="Ahogy a vas edzi a vasat, úgy edzi a szenszej a tanítványát"/>
+		<IT value="Così come il ferro affila il ferro, così il sensei affina l'allievo"/>
+		<JA value="鉄が鉄を鍛えるように、先生は弟子を鍛える"/>
+		<KO value="철이 철을 날카롭게 하듯 스승이 제자를 단련시키는 법"/>
+		<NB value="Sensei sliper studenter på samme måte som jern sliper jern"/>
+		<NL value="Zoals ijzer ijzer scherpt, scherpt sensei leerling"/>
+		<PL value="Sensei szlifuje umiejętności swoich uczniów"/>
+		<RU value="Как железо точит железо, так сенсей оттачивает навыки ученика"/>
+		<SV value="Som järn vässar järn, vässar sensei studenten"/>
+		<ZH value="如同以铁磨铁，为的是能够使之锋利；Sensei也这样磨砺着他的学生"/>
+	</iron_sharpens>
+	<jay>
+		<CS value="Jay"/>
+		<DA value="Jay"/>
+		<DE value="Jay"/>
+		<EN value="Jay"/>
+		<ESMX value="Jay"/>
+		<FI value="Jay"/>
+		<FR value="Jay"/>
+		<HU value="Jay"/>
+		<IT value="Jay"/>
+		<JA value="ジェイ"/>
+		<KO value="제이"/>
+		<NB value="Jay"/>
+		<NL value="Jay"/>
+		<PL value="Jay"/>
+		<RU value="Jay"/>
+		<SV value="Jay"/>
+		<ZH value="杰"/>
+	</jay>
+	<kai>
+		<CS value="Kai"/>
+		<DA value="Kai"/>
+		<DE value="Kai"/>
+		<EN value="Kai"/>
+		<ESMX value="Kai"/>
+		<FI value="Kai"/>
+		<FR value="Kai"/>
+		<HU value="Kai"/>
+		<IT value="Kai"/>
+		<JA value="カイ"/>
+		<KO value="카이"/>
+		<NB value="Kai"/>
+		<NL value="Kai"/>
+		<PL value="Kai"/>
+		<RU value="Kai"/>
+		<SV value="Kai"/>
+		<ZH value="凯"/>
+	</kai>
+	<lloyd>
+		<CS value="Lloyd"/>
+		<DA value="Lloyd"/>
+		<DE value="Lloyd"/>
+		<EN value="Lloyd"/>
+		<ESMX value="Lloyd"/>
+		<FI value="Lloyd"/>
+		<FR value="Lloyd"/>
+		<HU value="Lloyd"/>
+		<IT value="Lloyd"/>
+		<JA value="ロイド"/>
+		<KO value="로이드"/>
+		<NB value="Lloyd"/>
+		<NL value="Lloyd"/>
+		<PL value="Lloyd"/>
+		<RU value="Lloyd"/>
+		<SV value="Lloyd"/>
+		<ZH value="劳埃德"/>
+	</lloyd>
+	<loading>
+		<CS value="Nahrávání"/>
+		<DA value="Henter"/>
+		<DE value="Lade"/>
+		<EN value="Yükleniyor"/>
+		<ESMX value="Cargando"/>
+		<FI value="Lataa"/>
+		<FR value="Chargement"/>
+		<HU value="Betöltés"/>
+		<IT value="Caricamento"/>
+		<JA value="ロード中"/>
+		<KO value="로딩"/>
+		<NB value="Laster"/>
+		<NL value="Bezig met laden..."/>
+		<PL value="Wczytywanie"/>
+		<RU value="Загрузка"/>
+		<SV value="Läser in"/>
+		<ZH value="加载中"/>
+	</loading>
+	<locked>
+		<CS value="Uzamčeno!"/>
+		<DA value="Låst!"/>
+		<DE value="Gesperrt!"/>
+		<EN value="Locked!"/>
+		<ESMX value="¡Bloqueado!"/>
+		<FI value="Lukittu!"/>
+		<FR value="Verrouillé!"/>
+		<HU value="Zárolva!"/>
+		<IT value="Bloccato!"/>
+		<JA value="ロックされています！"/>
+		<KO value="잠겨 있습니다!"/>
+		<NB value="Låst!"/>
+		<NL value="Vergrendeld!"/>
+		<PL value="Niedostępne!"/>
+		<RU value="Заблокировано!"/>
+		<SV value="Låst!"/>
+		<ZH value="有锁！"/>
+	</locked>
+	<medal_rank_bronze>
+		<CS value="Student"/>
+		<DA value="Student"/>
+		<DE value="Schüler"/>
+		<EN value="Student"/>
+		<ESMX value="Aprendiz"/>
+		<FI value="Oppilas"/>
+		<FR value="Disciple"/>
+		<HU value="Tanítvány"/>
+		<IT value="Allievo"/>
+		<JA value="弟子"/>
+		<KO value="제자"/>
+		<NB value="Student"/>
+		<NL value="Leerling"/>
+		<PL value="Uczeń"/>
+		<RU value="Студент"/>
+		<SV value="Elev"/>
+		<ZH value="学生"/>
+	</medal_rank_bronze>
+	<medal_rank_gold>
+		<CS value="Nindža"/>
+		<DA value="Ninja"/>
+		<DE value="Ninja"/>
+		<EN value="Ninja"/>
+		<ESMX value="Ninja"/>
+		<FI value="Ninja"/>
+		<FR value="Ninja"/>
+		<HU value="Nindzsa"/>
+		<IT value="Ninja"/>
+		<JA value="忍者"/>
+		<KO value="닌자"/>
+		<NB value="Ninja"/>
+		<NL value="Meest indrukwekkend"/>
+		<PL value="Ninja"/>
+		<RU value="Нинзя"/>
+		<SV value="Ninja"/>
+		<ZH value="忍者"/>
+	</medal_rank_gold>
+	<medal_rank_silver>
+		<CS value="Bojovník"/>
+		<DA value="Kæmper"/>
+		<DE value="Kämpfer"/>
+		<EN value="Fighter"/>
+		<ESMX value="Luchador"/>
+		<FI value="Taistelija"/>
+		<FR value="Guerrier"/>
+		<HU value="Harcos"/>
+		<IT value="Combattente"/>
+		<JA value="戦士"/>
+		<KO value="파이터"/>
+		<NB value="Slåsskjempe"/>
+		<NL value="Vechter"/>
+		<PL value="Wojownik"/>
+		<RU value="Боец"/>
+		<SV value="Fajter"/>
+		<ZH value="战士"/>
+	</medal_rank_silver>
+	<select_colour>
+		<CS value="Vybrat barvu"/>
+		<DA value="Vælg farve"/>
+		<DE value="Farbe wählen"/>
+		<EN value="Select Colour"/>
+		<ESMX value="Seleccionar color"/>
+		<FI value="Valitse väri"/>
+		<FR value="Sélectionnez sa couleur"/>
+		<HU value="Válassz színt"/>
+		<IT value="Scegli il colore"/>
+		<JA value="色を選択"/>
+		<KO value="컬러 선택"/>
+		<NB value="Velg farge"/>
+		<NL value="Kies een kleur"/>
+		<PL value="Wybierz kolor"/>
+		<RU value="Выбери цвет"/>
+		<SV value="Välj färg"/>
+		<ZH value="选择颜色"/>
+	</select_colour>
+	<select_elemental_power>
+		<CS value="Vybrat sílu přírody"/>
+		<DA value="Vælg elementær kraft"/>
+		<DE value="Elementarkraft wählen"/>
+		<EN value="Select Elemental Power"/>
+		<ESMX value="Seleccionar poder elemental"/>
+		<FI value="Valitse elementaalivoima"/>
+		<FR value="Sélectionnez son pouvoir élémentaire"/>
+		<HU value="Válassz elemi erőt"/>
+		<IT value="Scegli il potere elementale"/>
+		<JA value="エレメントを選択"/>
+		<KO value="원소 파워 선택"/>
+		<NB value="Velg elementkraft"/>
+		<NL value="Kies een elementaire kracht"/>
+		<PL value="Wybierz moc żywiołu"/>
+		<RU value="Выбери силу стихии"/>
+		<SV value="Välj elementalkraft"/>
+		<ZH value="选择元素力量"/>
+	</select_elemental_power>
+	<stat_cling>
+		<CS value="Šplhat"/>
+		<DA value="Klatring"/>
+		<DE value="Klettern"/>
+		<EN value="Climb"/>
+		<ESMX value="Escalada"/>
+		<FI value="Kiipeäminen"/>
+		<FR value="Escalade"/>
+		<HU value="Mászás"/>
+		<IT value="Arrampicata"/>
+		<JA value="よじ登り"/>
+		<KO value="기어오르기"/>
+		<NB value="Klatre"/>
+		<NL value="Klimmen"/>
+		<PL value="Wspinaczka"/>
+		<RU value="Лазанье"/>
+		<SV value="Klättra"/>
+		<ZH value="攀登"/>
+	</stat_cling>
+	<stat_hp>
+		<CS value="Zdraví"/>
+		<DA value="Liv"/>
+		<DE value="Gesundheit"/>
+		<EN value="Health"/>
+		<ESMX value="Salud"/>
+		<FI value="Elinvoima"/>
+		<FR value="Résistance"/>
+		<HU value="Életerő"/>
+		<IT value="Salute"/>
+		<JA value="体力"/>
+		<KO value="체력"/>
+		<NB value="Helse"/>
+		<NL value="Gezondheid"/>
+		<PL value="Wytrzymałość"/>
+		<RU value="Здоровье"/>
+		<SV value="Hälsa"/>
+		<ZH value="健康"/>
+	</stat_hp>
+	<stat_jump>
+		<CS value="Výskok"/>
+		<DA value="Hop"/>
+		<DE value="Springen"/>
+		<EN value="Jump"/>
+		<ESMX value="Salto"/>
+		<FI value="Hyppääminen"/>
+		<FR value="Saut"/>
+		<HU value="Ugrás"/>
+		<IT value="Salto"/>
+		<JA value="ジャンプ"/>
+		<KO value="점프"/>
+		<NB value="Hopp"/>
+		<NL value="Springen"/>
+		<PL value="Skoczność"/>
+		<RU value="Прыжок"/>
+		<SV value="Hoppa"/>
+		<ZH value="跳跃"/>
+	</stat_jump>
+	<stat_melee>
+		<CS value="Síla"/>
+		<DA value="Styrke"/>
+		<DE value="Kraft"/>
+		<EN value="Strength"/>
+		<ESMX value="Fuerza"/>
+		<FI value="Voima"/>
+		<FR value="Force"/>
+		<HU value="Erő"/>
+		<IT value="Forza"/>
+		<JA value="力"/>
+		<KO value="힘"/>
+		<NB value="Styrke"/>
+		<NL value="Kracht"/>
+		<PL value="Siła"/>
+		<RU value="Сила"/>
+		<SV value="Styrka"/>
+		<ZH value="力量"/>
+	</stat_melee>
+	<stat_speed>
+		<CS value="Rychlost"/>
+		<DA value="Hurtighed"/>
+		<DE value="Geschwindigkeit"/>
+		<EN value="Speed"/>
+		<ESMX value="Velocidad"/>
+		<FI value="Nopeus"/>
+		<FR value="Vitesse"/>
+		<HU value="Gyorsaság"/>
+		<IT value="Velocità"/>
+		<JA value="素早さ"/>
+		<KO value="속도"/>
+		<NB value="Fart"/>
+		<NL value="Snelheid"/>
+		<PL value="Szybkość"/>
+		<RU value="Скорость"/>
+		<SV value="Snabbhet"/>
+		<ZH value="速度"/>
+	</stat_speed>
+	<summary_description_cling>
+		<CS value="Zaneovo školení šplhu"/>
+		<DA value="Zanes Klatretræning"/>
+		<DE value="Zanes Kletter-Training"/>
+		<EN value="Zane's Climb Training"/>
+		<ESMX value="Entrenamiento de escalada de Zane"/>
+		<FI value="Zanen kiipeilykoulutus"/>
+		<FR value="Entraînement d'escalade de Zane"/>
+		<HU value="Zane mászási edzése"/>
+		<IT value="Allenamento dell'arrampicata di Zane"/>
+		<JA value="ゼーンのよじ登り修行"/>
+		<KO value="쟌 의 기어오르기 훈련"/>
+		<NB value="Zanes klatretrening"/>
+		<NL value="Zane's klimtraining"/>
+		<PL value="Zane- trening wspinaczki"/>
+		<RU value="Зейн: тренировка лазанья"/>
+		<SV value="Zanes klätterträning"/>
+		<ZH value="赞的攀登训练"/>
+	</summary_description_cling>
+	<summary_description_hp>
+		<CS value="Coleovo školení zdraví"/>
+		<DA value="Coles Livstræning"/>
+		<DE value="Coles Gesundheits-Training"/>
+		<EN value="Cole's Health Training"/>
+		<ESMX value="Entrenamiento de salud de Cole"/>
+		<FI value="Colen elinvoimakoulutus"/>
+		<FR value="Entraînement de résistance de Cole"/>
+		<HU value="Cole életerő edzése"/>
+		<IT value="Allenamento della salute di Cole"/>
+		<JA value="コールの体力修行"/>
+		<KO value="콜 의 체력 훈련"/>
+		<NB value="Coles helsetrening"/>
+		<NL value="Cole's gezondheidstraining"/>
+		<PL value="Cole- trening wytrzymałości"/>
+		<RU value="Коул: тренировка здоровья"/>
+		<SV value="Coles hälsoträning"/>
+		<ZH value="寇的健康训练"/>
+	</summary_description_hp>
+	<summary_description_jump>
+		<CS value="Lloydovo školení výskoků"/>
+		<DA value="Lloyds Hoppetræning"/>
+		<DE value="Lloyds Sprung-Training"/>
+		<EN value="Lloyd's Jump Training"/>
+		<ESMX value="Entrenamiento de salto de Lloyd"/>
+		<FI value="Lloydin hyppykoulutus"/>
+		<FR value="Entraînement de saut de Lloyd"/>
+		<HU value="Lloyd ugrási edzése"/>
+		<IT value="Allenamento del salto di Lloyd"/>
+		<JA value="ロイドのジャンプ修行"/>
+		<KO value="로이드 의 점프 훈련"/>
+		<NB value="Lloyds hoppetrening"/>
+		<NL value="Lloyds sprongtraining"/>
+		<PL value="Lloyd- trening skoczności"/>
+		<RU value="Ллойд: тренировка прыжков"/>
+		<SV value="Lloyds hoppträning"/>
+		<ZH value="劳埃德的跳跃训练"/>
+	</summary_description_jump>
+	<summary_description_melee>
+		<CS value="Kaiovo školení síly"/>
+		<DA value="Kais Styrketræning"/>
+		<DE value="Kais Kraft-Training"/>
+		<EN value="Kai's Strength Training"/>
+		<ESMX value="Entrenamiento de fuerza de Kai"/>
+		<FI value="Kain voimakoulutus"/>
+		<FR value="Entraînement de force de Kai"/>
+		<HU value="Kai erőnléti edzése"/>
+		<IT value="Allenamento della forza di Kai"/>
+		<JA value="カイの力修行"/>
+		<KO value="카이 의 힘 훈련"/>
+		<NB value="Kais styrketrening"/>
+		<NL value="Kai's krachttraining"/>
+		<PL value="Kai- trening siły"/>
+		<RU value="Кай: тренировка силы"/>
+		<SV value="Kais styrketräning"/>
+		<ZH value="凯的力量训练"/>
+	</summary_description_melee>
+	<summary_description_race>
+		<CS value="Nacházíte s v [X]% nejlepších nindžů!"/>
+		<DA value="Du er blandt de øverste [X]% blandt ninjaer!"/>
+		<DE value="Du bist in den besten [X]% aller Ninjas gelandet!"/>
+		<EN value="You are in the top [X]% of ninjas!"/>
+		<ESMX value="¡Formas parte del mejor [X]% de ninjas!"/>
+		<FI value="Olet ninjojen parhaan [X]% joukossa!"/>
+		<FR value="Vous faites partie des meilleurs [X]%!"/>
+		<HU value="Benne vagy a legjobb [X]% nindzsa között!"/>
+		<IT value="Sei nel primo [X]% di ninja!"/>
+		<JA value="あなたはトップ[X]%の忍者です！"/>
+		<KO value="당신은 이제 상위[X]%의 닌자에 속합니다!"/>
+		<NB value="Du er blant de topp [X]% av ninjaene!"/>
+		<NL value="Je behoort tot de top [X]% van ninja's!"/>
+		<PL value="Jesteś wśród [X]% najlepszych ninja!"/>
+		<RU value="Вы среди лучших [X]% ниндзя!"/>
+		<SV value="Du är bland de [X]% bästa ninjorna!"/>
+		<ZH value="你已位列忍者前[X]%"/>
+	</summary_description_race>
+	<summary_description_speed>
+		<CS value="Jayovo školení rychlosti"/>
+		<DA value="Jays Hurtighedstræning"/>
+		<DE value="Jays Geschwindigkeits-Training"/>
+		<EN value="Jay's Speed Training"/>
+		<ESMX value="Entrenamiento de velocidad de Jay"/>
+		<FI value="Jayn nopeuskoulutus"/>
+		<FR value="Entraînement de vitesse de Jay"/>
+		<HU value="Jay gyorsasági edzése"/>
+		<IT value="Allenamento della velocità di Jay"/>
+		<JA value="ジェイの素早さ修行"/>
+		<KO value="제이 의 속도 훈련"/>
+		<NB value="Jays fartstrening"/>
+		<NL value="Jay's snelheidstraining"/>
+		<PL value="Jay - trening szybkości"/>
+		<RU value="Джей: тренировка скорости"/>
+		<SV value="Jays snabbhetsträning"/>
+		<ZH value="杰的速度训练"/>
+	</summary_description_speed>
+	<summary_title_cling>
+		<CS value="Šplhat"/>
+		<DA value="Klatring"/>
+		<DE value="Klettern"/>
+		<EN value="Climb"/>
+		<ESMX value="Escalada"/>
+		<FI value="Kiipeäminen"/>
+		<FR value="Escalade"/>
+		<HU value="Mászás"/>
+		<IT value="Arrampicata"/>
+		<JA value="よじ登り"/>
+		<KO value="기어오르기"/>
+		<NB value="Klatre"/>
+		<NL value="Klimmen"/>
+		<PL value="Wspinaczka"/>
+		<RU value="Лазанье"/>
+		<SV value="Klättra"/>
+		<ZH value="攀登"/>
+	</summary_title_cling>
+	<summary_title_hp>
+		<CS value="Zdraví"/>
+		<DA value="Liv"/>
+		<DE value="Gesundheit"/>
+		<EN value="Health"/>
+		<ESMX value="Salud"/>
+		<FI value="Elinvoima"/>
+		<FR value="Résistance"/>
+		<HU value="Életerő"/>
+		<IT value="Salute"/>
+		<JA value="体力"/>
+		<KO value="체력"/>
+		<NB value="Helse"/>
+		<NL value="Gezondheid"/>
+		<PL value="Wytrzymałość"/>
+		<RU value="Здоровье"/>
+		<SV value="Hälsa"/>
+		<ZH value="健康"/>
+	</summary_title_hp>
+	<summary_title_jump>
+		<CS value="Výskok"/>
+		<DA value="Hop"/>
+		<DE value="Springen"/>
+		<EN value="Jump"/>
+		<ESMX value="Salto"/>
+		<FI value="Hyppääminen"/>
+		<FR value="Saut"/>
+		<HU value="Ugrás"/>
+		<IT value="Salto"/>
+		<JA value="ジャンプ"/>
+		<KO value="점프"/>
+		<NB value="Hopp"/>
+		<NL value="Springen"/>
+		<PL value="Skoczność"/>
+		<RU value="Прыжок"/>
+		<SV value="Hoppa"/>
+		<ZH value="跳跃"/>
+	</summary_title_jump>
+	<summary_title_melee>
+		<CS value="Síla"/>
+		<DA value="Styrke"/>
+		<DE value="Kraft"/>
+		<EN value="Strength"/>
+		<ESMX value="Fuerza"/>
+		<FI value="Voima"/>
+		<FR value="Force"/>
+		<HU value="Erő"/>
+		<IT value="Forza"/>
+		<JA value="力"/>
+		<KO value="힘"/>
+		<NB value="Styrke"/>
+		<NL value="Kracht"/>
+		<PL value="Siła"/>
+		<RU value="Сила"/>
+		<SV value="Styrka"/>
+		<ZH value="力量"/>
+	</summary_title_melee>
+	<summary_title_speed>
+		<CS value="Rychlost"/>
+		<DA value="Hurtighed"/>
+		<DE value="Geschwindigkeit"/>
+		<EN value="Speed"/>
+		<ESMX value="Velocidad"/>
+		<FI value="Nopeus"/>
+		<FR value="Vitesse"/>
+		<HU value="Gyorsaság"/>
+		<IT value="Velocità"/>
+		<JA value="素早さ"/>
+		<KO value="속도"/>
+		<NB value="Fart"/>
+		<NL value="Snelheid"/>
+		<PL value="Szybkość"/>
+		<RU value="Скорость"/>
+		<SV value="Snabbhet"/>
+		<ZH value="速度"/>
+	</summary_title_speed>
+	<temple_on_haunted_hill>
+		<CS value="Chrám prokletého[LB]kopce"/>
+		<DA value="Templet på[LB]Spøgelsesbakken"/>
+		<DE value="Der Tempel auf dem[LB]Fluchhügel"/>
+		<EN value="The Temple on[LB]Haunted Hill"/>
+		<ESMX value="El templo de la[LB]colina encantada"/>
+		<FI value="Aavekukkulan[LB]temppeli"/>
+		<FR value="Le temple de la[LB]colline hantée"/>
+		<HU value="Templom a[LB]kísértetdombon"/>
+		<IT value="Il Tempio sulla[LB]Collina infestata"/>
+		<JA value="呪われた丘の寺"/>
+		<KO value="유령 언덕의 사원"/>
+		<NB value="Tempelet på[LB]Haunted Hill"/>
+		<NL value="De tempel op de[LB]spookheuvel"/>
+		<PL value="Świątynia na[LB]Nawiedzonym Wzgórzu"/>
+		<RU value="Храм Призрачного[LB]холма"/>
+		<SV value="Templet på[LB]Hemsökta kullen"/>
+		<ZH value="闹鬼小山上的庙宇"/>
+	</temple_on_haunted_hill>
+	<tournament>
+		<CS value="Turnaj"/>
+		<DA value="Turnering"/>
+		<DE value="Turnier"/>
+		<EN value="Tournament"/>
+		<ESMX value="Torneo"/>
+		<FI value="Turnaus"/>
+		<FR value="Tournoi"/>
+		<HU value="Bajnokság"/>
+		<IT value="Torneo"/>
+		<JA value="トーナメント"/>
+		<KO value="토너먼트"/>
+		<NB value="Turnering"/>
+		<NL value="Toernooi"/>
+		<PL value="Turniej"/>
+		<RU value="Турнир"/>
+		<SV value="Turnering"/>
+		<ZH value="锦标赛"/>
+	</tournament>
+	<training_progress>
+		<CS value="Průběh výcviku"/>
+		<DA value="Træningsfremskridt"/>
+		<DE value="Trainingsfortschritt"/>
+		<EN value="Training Progress"/>
+		<ESMX value="Progreso del entrenamiento"/>
+		<FI value="Koulutuksen edistyminen"/>
+		<FR value="Progression de la formation"/>
+		<HU value="Kiképzési haladás"/>
+		<IT value="Progressi di allenamento"/>
+		<JA value="修行の進行度"/>
+		<KO value="훈련 상황"/>
+		<NB value="Treningens fremgang"/>
+		<NL value="Trainingsvoortgang"/>
+		<PL value="Postępy szkolenia"/>
+		<RU value="Прогресс тренировки"/>
+		<SV value="Träningsframsteg"/>
+		<ZH value="训练进度"/>
+	</training_progress>
+	<try_again>
+		<CS value="ZKUSTE TO ZNOVU!"/>
+		<DA value="Prøv igen!"/>
+		<DE value="Versuche es noch mal!"/>
+		<EN value="Try Again!"/>
+		<ESMX value="¡Volver a intentarlo!"/>
+		<FI value="YRITÄ UUDELLEEN!"/>
+		<FR value="Retentez votre chance!"/>
+		<HU value="Próbálkozz újra!"/>
+		<IT value="Riprova!"/>
+		<JA value="トライ・アゲイン！"/>
+		<KO value="다시 해 보세요!"/>
+		<NB value="PRØV IGJEN!"/>
+		<NL value="Opnieuw proberen!"/>
+		<PL value="Spróbuj ponownie!"/>
+		<RU value="ПОПРОБУЙ СНОВА!"/>
+		<SV value="Försök Igen!"/>
+		<ZH value="再试一次！"/>
+	</try_again>
+	<tutorial_improved_skills>
+		<CS value="Velmi dobře mladý studente. Zlepšil jsi své schopnosti."/>
+		<DA value="Godt gået, unge student. Du har forbedret dine evner."/>
+		<DE value="Hervorragend, junger Schüler. Du hast deine Fähigkeiten verbessert."/>
+		<EN value="Well done young student. You have improved your skills."/>
+		<ESMX value="Buen trabajo, joven aprendiz. Has mejorado tus habilidades."/>
+		<FI value="Hyvin tehty, nuori oppilas. Taitosi ovat kehittyneet."/>
+		<FR value="Bravo, jeune disciple. Vous avez amélioré vos compétences."/>
+		<HU value="Szép volt, ifjú tanítvány. Fejlesztetted képességeidet."/>
+		<IT value="Bel lavoro, giovane allievo! Hai migliorato le tue abilità."/>
+		<JA value="よくやった、若き弟子よ。お前はスキルを上達させた。"/>
+		<KO value="잘했군. 네 스킬이 향상되었어."/>
+		<NB value="Bra jobbet, unge student. Du har styrket evnene dine."/>
+		<NL value="Goed gedaan, jonge leerling. Je hebt je vaardigheden verbeterd."/>
+		<PL value="Dobrze się spisałeś, uczniu. Udało ci się poprawić umiejętności."/>
+		<RU value="Так держать, юный ученик. Твои навыки совершенствуются."/>
+		<SV value="Bra gjort unge elev. Du har förbättrat dina färdigheter."/>
+		<ZH value="做得好，年轻的学生。你已提高了技能。"/>
+	</tutorial_improved_skills>
+	<tutorial_jade_blades>
+		<CS value="Sbíráním nefritových čepelí trénujte své schopnosti."/>
+		<DA value="Indsaml jade-klinger for at træne."/>
+		<DE value="Hol dir die Jadeklingen, um deine Fähigkeiten zu trainieren."/>
+		<EN value="Collect the Jade Blades to train your skills."/>
+		<ESMX value="Reúne las espadas de jade para entrenar tus habilidades."/>
+		<FI value="Kehitä taitojasi keräämällä jadeteriä."/>
+		<FR value="Récupérez des épées de jade pour améliorer vos compétences."/>
+		<HU value="Gyűjtsd össze a jáde pengéket, hogy fejleszd képességeidet!"/>
+		<IT value="Raccogli le lame di giada per allenare le tue abilità."/>
+		<JA value="修行のため、ヒスイの剣を集めるのじゃ。"/>
+		<KO value="제이드 블레이드를 획득해 스킬을 향상시키거라."/>
+		<NB value="Samle jadebladene for å trene opp evnene dine."/>
+		<NL value="Verzamel de jaden messen om je vaardigheden te trainen."/>
+		<PL value="Aby zwiększyć swoje umiejętności, zbieraj nefrytowe ostrza."/>
+		<RU value="Собирай нефритовые клинки, чтобы тренироваться."/>
+		<SV value="Samla ihop jadeklingorna för att öva upp dina färdigheter."/>
+		<ZH value="收集玉剑以训练你的技能。"/>
+	</tutorial_jade_blades>
+	<tutorial_never_put_off>
+		<CS value="Nikdy neodkládej na zítřek, co můžeš udělat ještě dnes."/>
+		<DA value="Udskyd aldrig til i morgen det, der kan gøres i dag."/>
+		<DE value="Was du heute kannst besorgen, das verschiebe nie auf morgen."/>
+		<EN value="Never put off until tomorrow what can be done today."/>
+		<ESMX value="No dejes para mañana lo que puedas hacer hoy."/>
+		<FI value="Älä koskaan jätä huomiseen sellaista, jonka voit tehdä tänään."/>
+		<FR value="Ne repoussez jamais à demain ce que vous pouvez faire aujourd'hui."/>
+		<HU value="Amit ma megtehetsz, ne halaszd holnapra."/>
+		<IT value="Mai rimandare a domani, quello che si può fare oggi."/>
+		<JA value="今日できることは明日にするな。"/>
+		<KO value="오늘 할 일을 내일로 미루지 말아라."/>
+		<NB value="Utsett ikke til i morgen det du kan gjøre i dag."/>
+		<NL value="Stil nooit uit tot morgen wat je vandaag kunt doen."/>
+		<PL value="Nie odkładaj do jutra tego, co możesz zrobić dzisiaj."/>
+		<RU value="Никогда не откладывай на завтра то, что можно сделать сегодня."/>
+		<SV value="Skjut inte upp till morgondagen det du kan göra idag."/>
+		<ZH value="今日事今日毕。"/>
+	</tutorial_never_put_off>
+	<tutorial_noodles>
+		<CS value="Vyhrajte doživotní zásobu nudlí!"/>
+		<DA value="Vind et livsforbrug af nudler!"/>
+		<DE value="Gewinne einen lebenslangen Nudelvorrat!"/>
+		<EN value="Win a life times supply of noodles!"/>
+		<ESMX value="¡Gana tallarines para toda la vida!"/>
+		<FI value="Voita nuudeleita loppuiäksesi!"/>
+		<FR value="Remportez votre poids en nouilles!"/>
+		<HU value="Nyerj egy életre elegendő levestésztát!"/>
+		<IT value="Vinci un rifornimento di noodles per tutta la vita!"/>
+		<JA value="一生分のヌードルを獲得しよう！"/>
+		<KO value="승리하면 평생 국수를 먹을 수 있지!"/>
+		<NB value="Vinn en livstidsforsyning av nudler!"/>
+		<NL value="Win een levenslange voorraad noedels!"/>
+		<PL value="Do wygrania dożywotni zapas klusków!"/>
+		<RU value="Выиграй пожизненный запас лапши!"/>
+		<SV value="Vinn en livsförbrukning av nudlar!"/>
+		<ZH value="赢取享用终生的面条！"/>
+	</tutorial_noodles>
+	<tutorial_rescue_zane>
+		<CS value="Nasbírejte [X] nefritových čepelí a zachraňte Zanea."/>
+		<DA value="Indsaml [X] jade-klinger for at redde Zane."/>
+		<DE value="Hol dir [X] Jadeklingen, um Zane zu retten."/>
+		<EN value="Collect [X] Jade Blades to rescue Zane."/>
+		<ESMX value="Reúne [X] espadas de jade para rescatar a Zane."/>
+		<FI value="Pelasta Zane keräämällä [X] jadeterää."/>
+		<FR value="Récupérez [X] épées de jade pour sauver Zane."/>
+		<HU value="Gyűjts össze [X] jáde pengét, hogy megmentsd Zane-t."/>
+		<IT value="Raccogli [X] lame di giada per salvare Zane."/>
+		<JA value="ゼーンをジェイドブレードを[X]本集めて救出しよう。"/>
+		<KO value="제이드 블레이드 [X]개를 획득해 쟌을 구출하거라."/>
+		<NB value="Samle [X] jadeblader for å redde Zane."/>
+		<NL value="Verzamel [X] jaden messen om Zane te redden."/>
+		<PL value="Zbierz [X] nefrytowych ostrzy, aby uratować Zane'a."/>
+		<RU value="Собери [X] нефритовых клинков, чтобы спасти Зейна."/>
+		<SV value="Samla ihop [X] jadeklingor för att rädda Zane."/>
+		<ZH value="收集[X]把玉剑以营救赞。"/>
+	</tutorial_rescue_zane>
+	<tutorial_train>
+		<CS value="Cvičte s Kaiem, Jayem, Colem, Lloydem a Zanem a vylepšete své schopnosti."/>
+		<DA value="Træn med Kai, Jay, Cole, Lloyd og Zane for at forbedre dine evner."/>
+		<DE value="Trainiere mit Kai, Jay, Cole, Lloyd und Zane , um deine Fähigkeiten zu verbessern."/>
+		<EN value="Train with Kai, Jay, Cole, Lloyd and Zane to improve your skills."/>
+		<ESMX value="Entrénate con Kai, Jay, Cole, Lloyd y Zane para mejorar tus habilidades."/>
+		<FI value="Kehitä taitojasi harjoittelemalla Kain, Jayn, Colen, Lloydin ja Zanen seurassa."/>
+		<FR value="Entraînez-vous avec Kai, Jay, Cole, Lloyd et Zane pour améliorer vos compétences."/>
+		<HU value="Gyakorolj Kai, Jay, Cole, Lloyd és Zane társaságában, hogy fejleszd képességeidet."/>
+		<IT value="Allenati con Kai, Jay, Cole, Lloyd e Zane per migliorare le tue abilità."/>
+		<JA value="カイ、ジェイ、コール、ロイド、ゼーン[LB]と一緒に修行じゃ！"/>
+		<KO value="카이, 제이, 콜, 로이드 그리고 쟌 과 함께 훈련을 해 스킬을 향상시키거라."/>
+		<NB value="Tren med Kai, Jay, Cole, Lloyd og Zane for å styrke evnene dine."/>
+		<NL value="Train met Kai, Jay, Cole, Lloyd en Zane om je vaardigheden te verbeteren."/>
+		<PL value="Aby poprawić swoje umiejętności, trenuj z takimi postaciami, jak Kai, Jay, Cole, Lloyd oraz Zane."/>
+		<RU value="Тренируйся с Каем, Джеем, Коулом, Ллойдоми Зейном, чтобы улучшить свои навыки."/>
+		<SV value="Träna med Kai, Jay, Cole, Lloyd och Zane för att förbättra dina färdigheter."/>
+		<ZH value="与凯、杰、寇、劳埃德以及赞一起训练，以提高你的技能。"/>
+	</tutorial_train>
+	<tutorial_train_with_zane>
+		<CS value="Cvičte své schopnosti skákání se Zanem."/>
+		<DA value="Træn dine evner til at hoppe på vægge med Zane."/>
+		<DE value="Trainiere deine Wandsprung-Fähigkeiten mit Zane."/>
+		<EN value="Train your wall jumping skills with Zane."/>
+		<ESMX value="Entrena la habilidad de saltar por las paredes con Zane."/>
+		<FI value="Harjoittele seinähyppytaitojasi Zanen kanssa."/>
+		<FR value="Entraînez-vous à sauter au-dessus des murs avec Zane."/>
+		<HU value="Gyakorold a falugrást Zane-nel."/>
+		<IT value="Allenati a saltare sul muro con Zane."/>
+		<JA value="ゼーンと一緒に壁飛びスキルを修行しよう。"/>
+		<KO value="쟌과 함께 담장 뛰어넘기 스킬을 훈련해라."/>
+		<NB value="Tren vegghoppe-evnene dine med Zane."/>
+		<NL value="Train je muurspringvaardigheden met Zane."/>
+		<PL value="Trenuj skoczność razem z Zane'em."/>
+		<RU value="Тренируй свое умение прыгать по стенам с Зейном."/>
+		<SV value="Träna på din förmåga att hoppa på väggar med Zane."/>
+		<ZH value="和赞一起训练你的踏墙翻越技能。"/>
+	</tutorial_train_with_zane>
+	<tutorial_true_ninja>
+		<CS value="Stali jste se skutečným nindžou!"/>
+		<DA value="Du er blevet en ægte ninja!"/>
+		<DE value="Du bist ein wahrer Ninja geworden!"/>
+		<EN value="You have become a true ninja!"/>
+		<ESMX value="¡Te has convertido en un auténtico ninja!"/>
+		<FI value="Sinusta on tullut aito ninja!"/>
+		<FR value="Vous voilà maintenant un véritable ninja!"/>
+		<HU value="Igazi nindzsa lett belőled!"/>
+		<IT value="Sei diventato un autentico ninja!"/>
+		<JA value="お前は真の忍者になった！"/>
+		<KO value="이제 진정한 닌자가 되었구나!"/>
+		<NB value="Du har blitt en ekte ninja!"/>
+		<NL value="Je bent een echte ninja geworden!"/>
+		<PL value="Stałeś się prawdziwym wojownikiem ninja!"/>
+		<RU value="Теперь ты — настоящий ниндзя!"/>
+		<SV value="Du har blivit en äkta ninja!"/>
+		<ZH value="你已经是一个真正的忍者了！"/>
+	</tutorial_true_ninja>
+	<tutorial_true_power>
+		<CS value="Síla je ve Vás, je nutné ji pouze probudit..."/>
+		<DA value="Kraften sover inde i dig, den skal blot vækkes..."/>
+		<DE value="Die Macht liegt in dir, du musst sie lediglich wecken..."/>
+		<EN value="Power lies within you, it only needs to be awoken..."/>
+		<ESMX value="El poder reside en ti, solo tienes que despertarlo..."/>
+		<FI value="Voima on sisälläsi, se pitää vain herättää..."/>
+		<FR value="Le pouvoir est en vous, il ne vous reste qu'à le réveiller..."/>
+		<HU value="A hatalom benned lakozik, csak fel kell ébreszteni..."/>
+		<IT value="Il potere è dentro di te, dev'essere solo risvegliato..."/>
+		<JA value="力はお前の中に眠っている、必要なのは目覚めだけだ..."/>
+		<KO value="파워는 이미 네 안에 내재되어 있지. 아직 자각하지 못 했을 뿐..."/>
+		<NB value="Kraften er inne i deg... den må bare vekkes."/>
+		<NL value="De kracht zit in je, hij hoeft alleen te worden gewekt..."/>
+		<PL value="Moc jest w tobie, trzeba ją tylko obudzić..."/>
+		<RU value="Сила заключена внутри тебя, ее нужно лишь пробудить..."/>
+		<SV value="Kraften finns inom dig, den behöver bara bli väckt..."/>
+		<ZH value="力量就在你的体内，只是需要你去唤醒它..."/>
+	</tutorial_true_power>
+	<tutorial_unlock_tournament>
+		<CS value="Nasbírejte [X] čepelí a odemkněte turnaj."/>
+		<DA value="Indsaml [X] klinger for at låse op for Turneringen."/>
+		<DE value="Hol dir [X] Klingen, um das Turnier freizuschalten."/>
+		<EN value="Collect [X] blades to unlock the Tournament."/>
+		<ESMX value="Reúne [X] espadas para desbloquear el torneo."/>
+		<FI value="Avaa turnaus keräämällä [X] veistä."/>
+		<FR value="Récupérez [X] épées pour débloquer le tournoi."/>
+		<HU value="Gyűjts be [X] pengét, hogy feloldd a bajnokságot."/>
+		<IT value="Raccogli [X] lame per sbloccare il torneo."/>
+		<JA value="ヒスイの剣を[X]つ集めると、[LB]”トーナメント”に参加できるぞ。"/>
+		<KO value="블레이드 [X] 개를 획득하면 토너먼트의 잠금을 해제할 수 있지."/>
+		<NB value="Samle [X] blader for å låse opp turneringen."/>
+		<NL value="Verzamel [X] messen om het Toernooi te ontgrendelen."/>
+		<PL value="Aby odblokować turniej, zbierz następującą liczbę ostrzy: [X]."/>
+		<RU value="Собери [X] клинков, чтобы открыть Турнир."/>
+		<SV value="Samla ihop [X] svärd för att låsa upp turneringen."/>
+		<ZH value="收集[X]把剑以解锁锦标赛。"/>
+	</tutorial_unlock_tournament>
+	<tutorial_welcome>
+		<CS value="Vítejte na turnaji sil přírody!"/>
+		<DA value="Velkommen til Elementernes Turnering!"/>
+		<DE value="Willkommen beim Turnier der Elemente!"/>
+		<EN value="Welcome to the Tournament of Elements!"/>
+		<ESMX value="¡Te damos la bienvenida al torneo de elementos!"/>
+		<FI value="Tervetuloa Elementtien turnaukseen!"/>
+		<FR value="Bienvenue au tournoi des éléments!"/>
+		<HU value="Üdvözlünk az Elemek Tornáján!"/>
+		<IT value="Benvenuto al Torneo degli elementi!"/>
+		<JA value="エレメント・トーナメントにようこそ！"/>
+		<KO value="원소 토너먼트에 온 걸 환영하네!"/>
+		<NB value="Velkommen til element-turneringen!"/>
+		<NL value="Welkom bij het Toernooi der Elementen!"/>
+		<PL value="Witamy w Turnieju Żywiołów!"/>
+		<RU value="Добро пожаловать на Турнир Стихий!"/>
+		<SV value="Välkommen till Elementens turnering!"/>
+		<ZH value="欢迎来到元素锦标赛！"/>
+	</tutorial_welcome>
+	<tutorial_win_tournament>
+		<CS value="Vyhrajte turnaj a staňte se skutečným nindžou!"/>
+		<DA value="Vind turneringen for at blive en ægte ninja!"/>
+		<DE value="Gewinne das Turnier, um ein wahrer Ninja zu werden!"/>
+		<EN value="Win the Tournament to become a true Ninja!"/>
+		<ESMX value="¡Gana el torneo y serás un auténtico ninja!"/>
+		<FI value="Voita turnaus, jotta sinusta tulee aito ninja!"/>
+		<FR value="Remportez le tournoi pour devenir un véritable ninja!"/>
+		<HU value="Nyerd meg a bajnokságot, hogy igazi nindzsa váljék belőled!"/>
+		<IT value="Vinci il torneo per diventare un autentico Ninja!"/>
+		<JA value="”トーナメント”を制覇すれば、[LB]おぬしも真のニンジャじゃ！"/>
+		<KO value="토너먼트에서 살아남아 진정한 닌자가 되어라!"/>
+		<NB value="Vinn turneringen for å bli en ekte ninja!"/>
+		<NL value="Win het Toernooi om een echte ninja te worden!"/>
+		<PL value="Wygraj turniej i zostań prawdziwym ninja!"/>
+		<RU value="Выиграй Турнир и стань настоящим ниндзя!"/>
+		<SV value="Vinn turneringen för att bli en äkta ninja!"/>
+		<ZH value="赢得锦标赛以成为一个真正的忍者！"/>
+	</tutorial_win_tournament>
+	<wu>
+		<CS value="Sensei Wu"/>
+		<DA value="Sensei Wu"/>
+		<DE value="Sensei Wu"/>
+		<EN value="Sensei Wu"/>
+		<ESMX value="Sensei Wu"/>
+		<FI value="Sensei Wu"/>
+		<FR value="Sensei Wu"/>
+		<HU value="Sensei Wu"/>
+		<IT value="Sensei Wu"/>
+		<JA value="ウー先生"/>
+		<KO value="마스터 우"/>
+		<NB value="Sensei Wu"/>
+		<NL value="Sensei Wu"/>
+		<PL value="Sensei Wu"/>
+		<RU value="Sensei Wu"/>
+		<SV value="Sensei Wu"/>
+		<ZH value="吴大师"/>
+	</wu>
+	<yang>
+		<CS value="Duch Sensei Yang"/>
+		<DA value="Sensei Yangs spøgelse"/>
+		<DE value="Geist von Sensei Yang"/>
+		<EN value="Ghost of Sensei Yang"/>
+		<ESMX value="Fantasma de Senséi Yang"/>
+		<FI value="Sensei Yangin aave"/>
+		<FR value="Fantôme de Sensei Yang"/>
+		<HU value="Sensei Yang szelleme"/>
+		<IT value="Fantasma di Sensei Yang"/>
+		<JA value="ヤン先生の幽霊"/>
+		<KO value="Sensei Yang의 혼령"/>
+		<NB value="Ånden tilSensei Yang"/>
+		<NL value="Geest van Sensei Yang"/>
+		<PL value="Duch sensei Yanga"/>
+		<RU value="Дух сенсея Янга"/>
+		<SV value="Sensei Yangs spöke"/>
+		<ZH value="Sensei Yang的魂魄"/>
+	</yang>
+	<you_earned>
+		<CS value="Získali jste..."/>
+		<DA value="Du har tjent..."/>
+		<DE value="Du hast dir verdient:"/>
+		<EN value="You earned..."/>
+		<ESMX value="Has ganado..."/>
+		<FI value="Ansaitsit..."/>
+		<FR value="Vous avez gagné..."/>
+		<HU value="Szereztél..."/>
+		<IT value="Hai ottenuto..."/>
+		<JA value="獲得しました..."/>
+		<KO value="다음을 획득했습니다..."/>
+		<NB value="Du tjente ..."/>
+		<NL value="Je hebt verdiend..."/>
+		<PL value="Uzyskałeś..."/>
+		<RU value="Ты получаешь..."/>
+		<SV value="Du tjänade ihop till..."/>
+		<ZH value="你已赢得..."/>
+	</you_earned>
+	<you_escaped>
+		<CS value="Unikli jste!"/>
+		<DA value="Du flygtede!"/>
+		<DE value="Du bist entkommen!"/>
+		<EN value="You escaped!"/>
+		<ESMX value="¡Has escapado!"/>
+		<FI value="Pakenit!"/>
+		<FR value="Évasion réussie!"/>
+		<HU value="Megszöktél"/>
+		<IT value="Sei riuscito a scappare!"/>
+		<JA value="脱出成功！"/>
+		<KO value="탈출했어요!"/>
+		<NB value="Du flyktet!"/>
+		<NL value="Je bent ontsnapt!"/>
+		<PL value="Udało ci się uciec!"/>
+		<RU value="Тебе удалось уйти!"/>
+		<SV value="Du lyckades fly!"/>
+		<ZH value="你逃跑了！"/>
+	</you_escaped>
+	<zane>
+		<CS value="Zane"/>
+		<DA value="Zane"/>
+		<DE value="Zane"/>
+		<EN value="Zane"/>
+		<ESMX value="Zane"/>
+		<FI value="Zane"/>
+		<FR value="Zane"/>
+		<HU value="Zane"/>
+		<IT value="Zane"/>
+		<JA value="ゼーン"/>
+		<KO value="쟌"/>
+		<NB value="Zane"/>
+		<NL value="Zane"/>
+		<PL value="Zane"/>
+		<RU value="Zane"/>
+		<SV value="Zane"/>
+		<ZH value="赞"/>
+	</zane>
+</localisation>

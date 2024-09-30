@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--Configuration for Ninjago Rush-->
+<configuration name="Ninjago Rush" contentlanguage="en-US" version="1">
+  <experience>rush</experience>
+  <minimumversion/>
+  <killswitch>0</killswitch>
+  <tracking>0</tracking>
+  <customvalues>
+    <language>EN</language>
+  </customvalues>
+  <assets>
+    <localisation>localisation.xml</localisation>
+  </assets>
+  <endpoints/>
+</configuration>
